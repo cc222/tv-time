@@ -1,0 +1,14 @@
+/home/adminolk/Documents/GetTvShowTotalLength/bin/Debug/net8.0/GetTvShowTotalLength
+/home/adminolk/Documents/GetTvShowTotalLength/bin/Debug/net8.0/GetTvShowTotalLength.deps.json
+/home/adminolk/Documents/GetTvShowTotalLength/bin/Debug/net8.0/GetTvShowTotalLength.runtimeconfig.json
+/home/adminolk/Documents/GetTvShowTotalLength/bin/Debug/net8.0/GetTvShowTotalLength.dll
+/home/adminolk/Documents/GetTvShowTotalLength/bin/Debug/net8.0/GetTvShowTotalLength.pdb
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/GetTvShowTotalLength.GeneratedMSBuildEditorConfig.editorconfig
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/GetTvShowTotalLength.AssemblyInfoInputs.cache
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/GetTvShowTotalLength.AssemblyInfo.cs
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/GetTvShowTotalLength.csproj.CoreCompileInputs.cache
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/GetTvShowTotalLength.dll
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/refint/GetTvShowTotalLength.dll
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/GetTvShowTotalLength.pdb
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/GetTvShowTotalLength.genruntimeconfig.cache
+/home/adminolk/Documents/GetTvShowTotalLength/obj/Debug/net8.0/ref/GetTvShowTotalLength.dll
